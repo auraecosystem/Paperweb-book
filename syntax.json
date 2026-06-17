@@ -1,0 +1,7 @@
+{
+  "scopeName": "source.book",
+  "patterns": [
+    { "name": "keyword.control.book", "match": "^---$" },
+    { "name": "entity.name.section", "match": "^#.*" }
+  ]
+}
