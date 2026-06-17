@@ -1,0 +1,23 @@
+
+title: Paperweb Novel
+author: Seriki Yakub
+language: en-US
+subject: Fiction
+version: 1
+output: pdf
+tags:
+  - web4
+  - book-system
+---
+
+# Preamble
+
+This is a Web4-native book format.
+
+## Chapter 1
+
+Books are no longer static. They are compiled systems.
+
+## Chapter 2
+
+This format can evolve into decentralized publishing infrastructure.
