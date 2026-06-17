@@ -2,7 +2,7 @@
 title: paperweb 
 author: Seriki yakub
 copyright: Copyright © 2026by seriki yakub
-version: 1
+version: 1 
 language: en-US
 subject: Fiction
 cssclasses:
