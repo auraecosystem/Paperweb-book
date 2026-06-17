@@ -1,0 +1,11 @@
+{
+  "name": "paperweb-book",
+  "version": "3.0.0",
+  "bin": {
+    "paperweb": "./cli/paperweb.js"
+  },
+  "dependencies": {
+    "express": "^4.18.0",
+    "js-yaml": "^4.1.0"
+  }
+}
